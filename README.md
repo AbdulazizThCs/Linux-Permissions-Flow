@@ -20,7 +20,7 @@ Example: `---rwx---` → group members can read, write, and execute.
 
 **Others** → All other users on the system who are not the owner or in the group.  
 Example: `------r-x` → others can read and execute, but not write.   
-<br>
+<br>  
 **What does `rwx` mean?**  
 **r** → read: allows viewing the file contents
 
@@ -38,7 +38,7 @@ Example: `------r-x` → others can read and execute, but not write.
 `555`  →  r-x r-x r-x → Read and execute  
 `666`  →  rw- rw- rw- → Read and write  
 `777`  →  rwx rwx rwx → Full permissions for all   
-<br>
+<br>  
 **Example**: What does `775` mean?
 
 The number `775` **means the following**:
