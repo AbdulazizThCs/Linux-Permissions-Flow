@@ -47,7 +47,7 @@ The number `775` **means the following**:
 - **7 (Group)** → `rwx` → Group can also read, write, and execute  
 - **5 (Others)** → `r-x` → Others can read and execute, but **cannot write**
 
-# Example: Create and Set Permissions for a Python File  
+## Example: Create and Set Permissions for a Python File  
 
 **Step 1**: Open Linux Terminal  
 
